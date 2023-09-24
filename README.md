@@ -1,7 +1,7 @@
 ## EMERALD SQL files
 SQL files and process to aid descision making for Employee promotions in Emerals Technologies
 
-##Problem
+## Problem
 As of December 2022, Emerald Technologies recorded 1 Billion subscribers, making it the 3rd largest mobile network operator in the world, 
 and the largest in Africa/Asia. They currently have issues around promotion and performance rating and needed an experienced Data Scientist to help.
 
