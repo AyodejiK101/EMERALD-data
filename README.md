@@ -13,7 +13,7 @@ POSTGRE Sql
 
   ## 🗂️ Data Source
 
-The Dataset was provided by Emerald Technologies.
+The Dataset was provided by 10alytics for  Emerald Technologies- it has been uploaded to the read me files
 
 ## Tailored Data Analytics using sql - see below syntax used in answering the 10 questions below. 
 
