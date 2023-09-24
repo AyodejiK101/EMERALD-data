@@ -10,6 +10,10 @@ and the largest in Africa/Asia. They currently have issues around promotion and 
 - ![image](https://github.com/AyodejiK101/EMERALD-data/assets/140984130/42f1b09b-b4db-4b53-8112-1d432bb513a6)
 - POSTGRE Sql
 
+  ## 🗂️ Data Source
+
+The Dataset was provided by Emerald Technologies.
+
 - #Tailored Data Analytics using sql - see below syntax used in answering the 10 questions below. 
 
 - ![image](https://github.com/AyodejiK101/EMERALD-data/assets/140984130/ed5bdc4b-f4f9-4570-9b0d-b788163ed0da)
