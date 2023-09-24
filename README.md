@@ -15,6 +15,17 @@ POSTGRE Sql
 
 The Dataset was provided by 10alytics for  Emerald Technologies- it has been uploaded to the read me files
 
+## 🛠️ Highlighted Skills in this Project
+
+- Data Extraction
+
+- Data Cleaning
+
+- Data Transformation
+
+- Data Modeling
+
+
 ## Tailored Data Analytics using sql - see below syntax used in answering the 10 questions below. 
 
  ![image](https://github.com/AyodejiK101/EMERALD-data/assets/140984130/ed5bdc4b-f4f9-4570-9b0d-b788163ed0da)
