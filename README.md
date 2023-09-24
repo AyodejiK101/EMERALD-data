@@ -1,32 +1,34 @@
 # EMERALD SQL files
 SQL files and process to aid descision making for Employee promotions in Emerals Technologies
 
-#Tailored Data Analytics
+#Tailored Data Analytics using sql 
+![image](https://github.com/AyodejiK101/EMERALD-data/assets/140984130/4d1a3843-b371-4464-ac03-54a7b3755c08)
 
---1.How many employees do we have in the organization and what is the maximum length of service?
-SELECT  
+
+#--1.How many employees do we have in the organization and what is the maximum length of service?
+- SELECT  
 	COUNT (employee_id) as Total_Employees,
 	MAX(Length_of_service) as Max_YearsInService
 FROM Employee_test;
 
---2.How many employees are there in each department?
-SELECT 
+#--2.How many employees are there in each department?
+- SELECT 
 	distinct department,
 	COUNT(Employee_id) as Number_of_Employees
 FROM Employee_test
 GROUP BY department
 order by Number_of_Employees desc;
 
---3.What is the proportion of male to female employees?
-SELECT
+#--3.What is the proportion of male to female employees?
+- SELECT
 	gender,
 	count (employee_id) as Employees
 FROM
 	Employee_test
 GROUP BY Gender;
 
---4.Group Employee age into 5 categories (20 – 29, 30 – 39, 40-49, 50-59, >60). What age group has the highest and lowest employee?
-SELECT 
+#--4.Group Employee age into 5 categories (20 – 29, 30 – 39, 40-49, 50-59, >60). What age group has the highest and lowest employee?
+- SELECT 
 	CASE
 	WHEN age between 20 and 29 then '20-29'
 	WHEN age between 30 and 39 then '30-39'
